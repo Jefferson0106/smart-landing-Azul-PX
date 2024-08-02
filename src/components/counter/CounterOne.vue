@@ -24,10 +24,12 @@ onUpdated(() => {
 
 
 <template>
+	<div class="itn-gint-got">
     <div style="position: relative;">
-        <img src="/assets/img/pixelsbpix.png" alt="">
+        <!---img src="/assets/img/pixelsbpix.png" alt=""> --->
         <h1 class="titulo">!Registrate ahora y dale un nuevo enfoque a tu negocio!</h1>
     </div>
+	</div>
 </template>
 
 <style scoped>
@@ -35,30 +37,17 @@ onUpdated(() => {
 	.titulo{
 	text-align-last: center;
 	position: absolute;
-	top: 70%; 
+	top: 620px;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	color: beige;
 	font-size: 15px; /* Tamaño en píxeles */
 }
+}
 h1{
 	text-align-last: center;
-	position: absolute;
-	top: 70%; 
-	left: 50%;
-	transform: translate(-50%, -50%);
-	color: beige;
-	white-space: nowrap;
-	font-size: 17px; /* Tamaño en píxeles */
-}
-}
-
-h1{
-	text-align-last: center;
-	position: absolute;
-	top: 70%; 
-	left: 50%;
-	transform: translate(-50%, -50%);
+	position: relative;
+	top: 470px;
 	color: beige;
 	white-space: nowrap;
 	font-size: 40px; /* Tamaño en píxeles */
