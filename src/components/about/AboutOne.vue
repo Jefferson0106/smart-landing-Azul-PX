@@ -57,7 +57,7 @@
 .info-content-area .section-title h2 {
 	position: relative;
 	/*	padding-left: 35px; */
-	font-size: 37px; /* TamaÃ±o en pÃ­xeles */
+	font-size: 27px; /* TamaÃ±o en pÃ­xeles */
 	color: #0070ff;
 	white-space: nowrap;
 }
