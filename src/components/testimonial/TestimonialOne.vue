@@ -151,7 +151,7 @@ p {
 	position: relative;
 	width: 70%;
 	top: -210px;
-	left: 150px;
+	left: 130px;
       padding: 20px;
 	  color: #000;
 	background-color: aliceblue;
@@ -161,7 +161,7 @@ p {
 	position: relative;
 	width: 70%;
 	top: -170px;
-	left: 150px;
+	left: 130px;
       padding: 20px;
 	  color: #000;
 	background-color: aliceblue;
@@ -171,7 +171,7 @@ p {
 	position: relative;
 	width: 70%;
 	top: -130px;
-	left: 150px;
+	left: 130px;
       padding: 20px;
 	  color: #000;
 	background-color: aliceblue;
@@ -180,7 +180,7 @@ p {
 	position: relative;
 	width: 70%;
 	top: -90px;
-	left: 150px;
+	left: 130px;
       padding: 20px;
 	  color: #000;
 	background-color: aliceblue;
@@ -189,7 +189,7 @@ p {
 	position: relative;
 	width: 70%;
 	top: -50px;
-	left: 150px;
+	left: 130px;
       padding: 20px;
 	  color: #000;
 	background-color: aliceblue;

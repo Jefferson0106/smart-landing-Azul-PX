@@ -71,7 +71,7 @@ onMounted(() => {
  								<!--h6 class="text-white">We Build only big things</h6> --->
  								<h1>Impulsa tus ventas<br> lleva tu negocio al siguiente nivel</h1>
  								<p> Industrial Revolution, in modern history, the process of change from an agrarian <br>and handicraft economy to one dominated by industry and machine manufacturing.</p>
-								 <img src="/assets/img/Floating-Robot.png" alt="" style="width: 40%; position: absolute; top: 40px; left: 800px;">
+								 <img class="robot" src="/assets/img/Floating-Robot.png" alt="" style="width: 40%; position: absolute; top: 40px; left: 800px;">
  							</div>
  							<router-link :to="{name:'about'}" class="main-btn">Registrate</router-link>
  						</div>
@@ -99,3 +99,15 @@ onMounted(() => {
  		</div> --->
  	</div>
 </template>
+
+<style scoped>
+@media (max-width: 767px) {
+	.robot{
+	width: 40%;
+	position: absolute;
+	top: 40px;
+	left: 00px;
+}
+
+}
+</style>

@@ -105,7 +105,7 @@ onUpdated(() => {
 		position: absolute;
 		top: -77px;
 	/*	padding-left: 35px; */
-		font-size: 25px; /* Tamaño en píxeles */
+		font-size: 15px; /* Tamaño en píxeles */
 		color: #0070ff;
 		
 	}

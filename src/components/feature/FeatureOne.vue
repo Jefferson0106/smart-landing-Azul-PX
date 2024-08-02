@@ -70,7 +70,7 @@ onMounted(async () => {
 	top: 10px;
 	left: -40px;
 /*	padding-left: 35px; */
-	font-size: 10px; /* Tamaño en píxeles */
+	font-size: 5px; /* Tamaño en píxeles */
 	color: #0070ff;
 	white-space: nowrap;
 }

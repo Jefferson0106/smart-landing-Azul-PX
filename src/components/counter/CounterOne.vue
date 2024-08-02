@@ -41,6 +41,16 @@ onUpdated(() => {
 	color: beige;
 	font-size: 15px; /* Tamaño en píxeles */
 }
+h1{
+	text-align-last: center;
+	position: absolute;
+	top: 70%; 
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: beige;
+	white-space: nowrap;
+	font-size: 17px; /* Tamaño en píxeles */
+}
 }
 
 h1{
